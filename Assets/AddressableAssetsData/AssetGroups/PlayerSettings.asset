@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PlayerSettings
+  m_EditorClassIdentifier: 
+  m_GroupName: PlayerSettings
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c028ea87cf4e1e24da38c56ec0b8b9b9
+  m_SerializeEntries:
+  - m_GUID: 582724e1ad634dd4b9251f72c1333520
+    m_Address: Assets/Prefabs/Player.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6588f024b52f8249a779a6ca7a9d6b4
+    m_Address: Assets/Sprite/Triangle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 15111c04e1b91ca48915931f367ed467, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bb556cf0268977d4299a3459fcbb801e, type: 2}
+    - {fileID: 11400000, guid: 858c86be7c44991409210add9d83be6b, type: 2}
